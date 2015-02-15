@@ -13,7 +13,7 @@ This is inspired by [same-purpose tool for OSX](https://github.com/rauchg/wifi-p
 First of all, install [PsGet](http://psget.net/) if you don't have it yet - it's awesome module manager for PowerShell:
 
 ```powershell
-(new-object Net.WebClient).DownloadString("http://psget.net/GetPsGet.ps1") | iex
+(New-Object Net.WebClient).DownloadString("http://psget.net/GetPsGet.ps1") | iex
 ```
 
 Now, you can easily install module itself:
