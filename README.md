@@ -4,7 +4,7 @@ People ask you for the Wi-Fi password. Answer quickly. **Windows only**.
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/557590/6204307/05ab9f88-b54f-11e4-9293-b2bd8c20a409.png)
 
-This is inspired by [same-purpose tool for OSX](https://github.com/rauchg/wifi-password) by [@rauchg](https://github.com/rauchg).
+This is inspired by [same-purpose tool for macOS](https://github.com/rauchg/wifi-password) by [@rauchg](https://github.com/rauchg).
 
 ## How to use
 
