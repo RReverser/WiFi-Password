@@ -22,6 +22,14 @@ Now, you can easily install module itself:
 Install-Module WiFi-Password
 ```
 
+If you have this mistake, it is windows [about_Execution_Policies](https://technet.microsoft.com/zh-CN/library/hh847748.aspx)
+![image](https://user-images.githubusercontent.com/23074726/33362000-5701c36a-d515-11e7-864c-9092184a7bc5.png)
+
+You just need to run this command in PowerShell
+```powershell
+set-executionpolicy remotesigned
+```
+
 **2. Use it:**
 
 To get the password for the WiFi you're currently logged onto:
